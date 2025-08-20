@@ -7,6 +7,6 @@ Kod dosyalarına ulaşabilirsiniz.
  Özellikler
 - Toplama, çıkarma, çarpma, bölme işlemleri
 - Ondalık sayı desteği
-- `C` tuşu ile sıfırlama
-- `=` tuşu ile sonucu gösterme
+- C tuşu ile sıfırlama
+- = tuşu ile sonucu gösterme
 - Hover efektleriyle görsel olarak daha canlı bir tasarım
